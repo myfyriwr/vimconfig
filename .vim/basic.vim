@@ -60,5 +60,5 @@ set guifont=Lucida_Console:h10:cANSI:qDRAFT
 " Allow hiding modified and terminal windows
 set hidden
 
-set tags=./tags,./stdTags,tags
+"set tags=./tags,./stdTags,tags
 set noequalalways

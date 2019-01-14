@@ -9,5 +9,3 @@ so $HOME/.vim/keymap.vim
 so $HOME/.vim/macro.vim
 
 so $HOME/.vim/template.vim
-
-set tags=./tags,./stdTags,tags
