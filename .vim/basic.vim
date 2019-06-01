@@ -51,9 +51,6 @@ set backspace=2
 " Don't spawn autocompletion window
 set completeopt=menuone
 
-set columns=232
-set lines=66
-
 colorscheme darkblue
 set guifont=Lucida_Console:h10:cANSI:qDRAFT
 
