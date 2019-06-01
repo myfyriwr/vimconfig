@@ -7,3 +7,4 @@ nnoremap <C-F> :tabnext<CR>
 nnoremap <C-B> :tabprev<CR>
 
 nnoremap <C-Q> :tabclose<CR>
+nnoremap Y ^y$
